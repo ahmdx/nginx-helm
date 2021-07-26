@@ -5,6 +5,7 @@ image:
   repository: nginx 
   tag: alpine
   pullPolicy: IfNotPresent
+  tagName: alpine
 
 resource:
   cpu: "50m"

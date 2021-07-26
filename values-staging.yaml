@@ -3,6 +3,7 @@ namespace:
 
 image:
   tag: 1.18.0
+  tagName: 1-18-0
 
 resource:
   mem: "128Mi"

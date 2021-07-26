@@ -3,6 +3,7 @@ namespace:
 
 image:
   tag: 1.17.0
+  tagName: 1-17-0
 
 resource:
   cpu: "70m"
