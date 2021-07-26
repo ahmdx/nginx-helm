@@ -1,0 +1,10 @@
+namespace:
+  name: staging
+
+image:
+  tag: 1.18.0
+
+resource:
+  mem: "128Mi"
+
+replicaCount: 1

@@ -1,0 +1,13 @@
+namespace:
+  name: prod
+
+image:
+  tag: 1.17.0
+
+resource:
+  cpu: "70m"
+
+service:
+  port: 80
+
+replicaCount: 2
